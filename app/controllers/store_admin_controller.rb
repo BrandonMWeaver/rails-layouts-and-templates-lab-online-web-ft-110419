@@ -5,4 +5,8 @@ class StoreAdminController < ApplicationController
     
   end
   
+  def orders
+    
+  end
+  
 end
